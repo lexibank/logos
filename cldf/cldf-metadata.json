@@ -9,7 +9,7 @@
     "dc:license": "http://www.opensource.org/licenses/GPL-3.0",
     "dc:source": "sources.bib",
     "dc:title": "Database of Cross-Linguistic Colexifications (Version 1.0)",
-    "dcat:accessURL": "https://github.com/clics/clics1",
+    "dcat:accessURL": "https://github.com/lexibank/logos",
     "rdf:ID": "logos",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
