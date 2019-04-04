@@ -1,4 +1,4 @@
-# Database of Cross-Linguistic Colexifications (Version 1.0)
+# LOGOS Data from the Database of Cross-Linguistic Colexifications (Version 1.0)
 
 Cite the source dataset as
 
