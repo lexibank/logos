@@ -1,708 +1,708 @@
 ID,Name,Concepticon_ID,Concepticon_Gloss
-fermenteddrink,fermented drink,404,ALCOHOL (FERMENTED DRINK)
-eggyolk,egg yolk,1556,YOLK
-putonclothes,put on (clothes),158,PUT ON
-tailor,tailor,881,TAILOR
-cloth,cloth,1616,CLOTH
-wool,wool,964,WOOL
-cotton,cotton,1850,COTTON
-silk,silk,1641,SILK
-felt,felt,325,FELT
-fur,fur,580,FUR
-spin,spin,121,SPIN
-spindle,spindle,277,SPINDLE
-weave,weave,133,WEAVE
-loom,loom,1787,LOOM
-sew,sew,1457,SEW
-dye,dye,157,DYE
-collar,collar,2012,COLLAR
-boot,boot,585,BOOT
-hatcap,"hat, cap",2130,HEADGEAR
-veil,veil,1151,VEIL
-pocket,pocket,1851,POCKET
-jewel,jewel,1029,JEWEL
-braid,braid,333,PLAIT
-dwelllive,"dwell, live",363,"DWELL (LIVE, RESIDE)"
-hut,hut,1678,HUT
-yardcourt,"yard, court",736,YARD
-room,room,1450,ROOM
-chimney,chimney,1305,CHIMNEY
-pillow,pillow,1044,PILLOW
-lamptorch,"lamp, torch",2131,TORCH OR LAMP
-shelf,shelf,745,SHELF
-trough,trough,205,TROUGH
-board,board,1227,BOARD
-mason,mason,877,MASON
-fieldforcultivation,field (for cultivation),212,FIELD
-cultivatetill,"cultivate, till",1541,CULTIVATE
-plow,plow,1921,PLOUGH
-furrow,furrow,1794,FURROW
-mowreap,"mow, reap",190,MOW
-sicklescythe,"sickle, scythe",2132,SICKLE OR SCYTHE
-wheat,wheat,1077,WHEAT
-barley,barley,932,BARLEY
-rye,rye,23,RYE
-plantnoun,plant (noun),653,PLANT (VEGETATION)
-branch,branch,1531,BRANCH
-beech,beech,1950,BEECH
-birch,birch,1855,BIRCH
-vine,vine,343,VINE
-tobacco,tobacco,974,TOBACCO
-pipe,pipe,1124,PIPE
-citrusfruit,citrus fruit,1126,CITRUS FRUIT
-domake,"do, make",2575,DO OR MAKE
-work,work,984,WORK (LABOUR)
-bend,bend,2004,BEND
-tiebind,"tie, bind",1917,TIE
-untie,untie,352,UNTIE
-strikehitbeat,"strike (hit, beat)",2133,STRIKE OR BEAT
-broken,broken,588,BROKEN
-rubwipe,"rub, wipe",1449,RUB
-stretch,stretch,214,STRETCH
-pull,pull,1455,PULL
-hangup,hang up,357,HANG UP
-press,press,1913,PRESS
-pour,pour,1487,POUR
-wash,wash,1453,WASH
-carpenter,carpenter,1042,CARPENTER
-bore,bore,1501,BORE
-smithblacksmith,"smith, blacksmith",1001,BLACKSMITH
-anvil,anvil,1648,ANVIL
-castmetals,cast (metals),211,CAST
-leadnoun,lead (noun),627,LEAD (CHEMICAL ELEMENT)
-clay,clay,1399,CLAY
-mat,mat,195,MAT
-chisel,chisel,1979,CHISEL
-paintnoun,paint (noun),647,PAINT (PIGMENTS)
-earthgroundsoil,"earth=ground, soil",1228,EARTH (SOIL)
-dust,dust,2,DUST
-mud,mud,640,MUD
-plainfield,"plain, field",652,PLAIN
-valley,valley,921,VALLEY
-cave,cave,1155,CAVE
-calmofsea,calm (of sea),258,CALM
-roughofsea,rough (of sea),259,ROUGH (OF SEA)
-gulfbay,"gulf, bay",663,BAY
-lagoon,lagoon,623,LAGOON
-whirlpool,whirlpool,1982,WHIRLPOOL
-woodsforest,"woods, forest",420,FOREST
-earthquake,earthquake,6,EARTHQUAKE
-thunder,thunder,1150,THUNDER
-lightnoun,light (noun),630,LIGHT (RADIATION)
-darkness,darkness,11,DARKNESS
-shadeshadow,"shade, shadow",1388,SHADE
-dew,dew,1977,DEW
-flamenoun,flame (noun),889,FLAME
-ashes,ashes,646,ASH
-embers,embers,67,EMBERS
-burnvbtrans,burn (vb trans),141,BURN (SOMETHING)
-move,move,765,MOVE
-turnover,turn over,1588,TURN
-roll,roll,827,ROLL
-twist,twist,430,TWIST
-rise,rise,568,RISE (MOVE UPWARDS)
-fall,fall,1280,FALL
-drip,drip,2253,DRIP (EMIT LIQUID)
-throw,throw,1456,THROW
-shake,shake,1909,SHAKE
-flow,flow,2003,FLOW
-sink,sink,1088,SINK (DESCEND)
-float,float,1574,FLOAT
-swim,swim,1439,SWIM
-sailvb,sail (vb),787,SAIL
-blow,blow,175,BLOW (OF WIND)
-kneel,kneel,66,KNEEL
-jumpleap,"jump, leap",1829,JUMP
-walk,walk,1443,WALK
-limp,limp,366,LIMP
-run,run,1519,RUN
-go,go,695,GO
-goup,go up,705,GO UP (ASCEND)
-climb,climb,1102,CLIMB
-goout,go out,1107,GO OUT
-come,come,1446,COME
-goawaydepart,"go away, depart",1752,LEAVE
-disappear,disappear,485,DISAPPEAR
-flee,flee,956,FLEE
-follow,follow,1085,FOLLOW
-reacharrive,"reach, arrive",1387,ARRIVE
-approach,approach,1778,APPROACH
-enter,enter,749,ENTER
-carrybear,carry (bear),700,CARRY
-bring,bring,692,BRING
-send,send,1127,SEND
-ride,ride,367,RIDE
-pushshove,"push, shove",1452,PUSH
-road,road,667,ROAD
-axle,axle,1769,AXLE
-yoke,yoke,14,YOKE
-rowvb,row (vb),1849,ROW
-mast,mast,184,MAST
-have,have,773,HAVE
-take,take,1749,TAKE
-seizegrasp,"seize, grasp",2021,GRASP
-hold,hold,1448,HOLD
-getobtain,"get, obtain",694,GET
-keepretain,"keep, retain",1477,KEEP
-thing,thing,738,THING
-give,give,1447,GIVE
-giveback,give back,85,GIVE BACK
-destroy,destroy,681,DESTROY
-harminjuredamage,"harm, injure, damage",44,INJURE
-find,find,719,FIND
-lose,lose,1660,LOSE
-money,money,1559,MONEY
-poor,poor,1674,POOR
-beggar,beggar,1934,BEGGAR
-avariciousstingy,"avaricious, stingy",1774,STINGY
-borrow,borrow,1823,BORROW
-payvb,pay (vb),718,PAY
-taxtribute,"tax, tribute",873,TAX
-earn,earn,733,EARN
-buy,buy,1869,BUY
-sell,sell,1571,SELL
-marketplace,market (place),633,MARKET
-storeshop,"store, shop",752,STORE
-price,price,657,PRICE
-dearcostlyexpensive,"dear (costly, expensive)",1426,EXPENSIVE
-cheap,cheap,1887,CHEAP
-weigh,weigh,1098,WEIGH
-place,place,723,PLACE (POSITION)
-put,put,998,PUT
-sit,sit,1416,SIT
-liedown,lie down,215,LIE DOWN
-stand,stand,1442,STAND
-remainstay,"remain, stay",987,REMAIN
-collectgather,"collect, gather",7,GATHER
-pickup,pick up,371,PICK UP
-joinunite,"join, unite",1743,JOIN
-separate,separate,1359,SEPARATE
-divide,divide,1119,DIVIDE
-open,open,1156,OPEN
-shutclose,"shut, close",1046,SHUT
-cover,cover,761,COVER
-high,high,1265,HIGH
-low,low,721,LOW
-pointed,pointed,372,POINTED
-side,side,682,SIDE
-nearadv,near (adv),1942,NEAR
-east,east,1877,EAST
-west,west,1817,WEST
-north,north,1598,NORTH
-south,south,1595,SOUTH
-grow,grow,479,GROW
-measure,measure,1506,MEASURE
-largebig,"large, big",1202,BIG
-smalllittle,"small, little",1246,SMALL
-long,long,1203,LONG
-tall,tall,711,TALL
-short,short,1645,SHORT
-narrow,narrow,1267,NARROW
-thickindimension,thick (in dimension),1244,THICK
-thinindimension,thin (in dimension),2249,THIN (OF SHAPE OF OBJECT)
-deep,deep,1593,DEEP
-shallow,shallow,193,SHALLOW
-flat,flat,1633,FLAT
-straight,straight,1404,STRAIGHT
-crooked,crooked,297,CROOKED
-hook,hook,1071,HOOK
-cross,cross,1367,CROSS
-circle,circle,1467,CIRCLE
-line,line,1048,LINE
-hole,hole,1667,HOLE
-change,change,1264,CHANGE
-fifteen,fifteen,1709,FIFTEEN
-count,count,1420,COUNT
-everyall,"every, all",98,ALL
-muchmany,"much, many",1198,MANY
-more,more,1992,MORE
-enough,enough,1881,ENOUGH
-some,some,1241,SOME
-full,full,1429,FULL
-empty,empty,1624,EMPTY
-partpiece,"part, piece",779,PART
-half,half,816,HALF
-aloneonly,"alone, only",1580,ONLY
-first,first,728,FIRST
-last,last,1529,LAST (FINAL)
-second,second,1384,SECOND
-pair,pair,1888,PAIR
-twotimes,two times,1546,TWICE
-third,third,1859,THIRD
-time,time,892,TIME
-age,age,1789,AGE
-new,new,1231,NEW
-young,young,1207,YOUNG
-old,old,1229,OLD
-early,early,672,EARLY
-late,late,477,LATE
-now,now,1376,NOW
-immediately,immediately,1963,IMMEDIATELY
-swiftfastquick,"swift, fast, quick",1631,FAST
-slow,slow,701,SLOW
-hastenhurry,"hasten, hurry",754,HURRY
-beginbeginning,"begin, beginning",1806,BEGIN
-ceasestop,"cease, stop",1928,CEASE
-ready,ready,790,READY
-always,always,1676,ALWAYS
-often,often,1852,OFTEN
-sometimes,sometimes,1544,SOMETIMES
-soon,soon,703,SOON
-never,never,1656,NEVER
-again,again,204,AGAIN
-dawn,dawn,729,DAWN
-noonmidday,"noon, midday",12,MIDDAY
-today,today,1283,TODAY
-tomorrow,tomorrow,1329,TOMORROW
-yesterday,yesterday,1174,YESTERDAY
-hour,hour,1353,HOUR
-clocktimepiece,"clock, timepiece",1323,CLOCK
-week,week,1469,WEEK
-sunday,Sunday,1699,SUNDAY
+friday,Friday,1692,FRIDAY
+i,I,1209,I
 monday,Monday,1697,MONDAY
+saturday,Saturday,1700,SATURDAY
+sunday,Sunday,1699,SUNDAY
+thursday,Thursday,1693,THURSDAY
 tuesday,Tuesday,1695,TUESDAY
 wednesday,Wednesday,1694,WEDNESDAY
-thursday,Thursday,1693,THURSDAY
-friday,Friday,1692,FRIDAY
-saturday,Saturday,1700,SATURDAY
-season,season,691,SEASON
-stinkingbadsmelling,"stinking, bad smelling",42,STINKING
-taste,taste,21,TASTE (SOMETHING)
-salty,salty,1091,SALTY
-bitter,bitter,887,BITTER
-hear,hear,1408,HEAR
-soundnoise,"sound, noise",1811,SOUND OR NOISE
-quietsilence,"quiet, silence",1314,QUIET
-see,see,1409,SEE
-looklookat,"look, look at",1819,LOOK
-show,show,1039,SHOW
-shine,shine,708,SHINE
-bright,bright,679,BRIGHT
-darkincolor,dark (in color),706,DARK
-touch,touch,1892,TOUCH
-pinch,pinch,378,PINCH
-feel,feel,1079,FEEL
-hard,hard,1884,HARD
-soft,soft,1856,SOFT
-smooth,smooth,1234,SMOOTH
-sharp,sharp,1396,SHARP
-bluntdull,"blunt, dull",379,BLUNT
-wetdamp,"wet, damp",1726,WET
-dry,dry,1398,DRY
-hot,hot,1286,HOT
-warm,warm,1232,WARM
-clean,clean,704,CLEAN
-dirtysoiled,"dirty, soiled",1230,DIRTY
-soulspirit,"soul, spirit",53,SPIRIT
-joyfulgladhappy,"joyful, glad, happy",1495,HAPPY
-laugh,laugh,1355,LAUGH
-smile,smile,1451,SMILE
-play,play,1413,PLAY
-love,love,923,LOVE
-kiss,kiss,578,KISS
-embrace,embrace,928,EMBRACE
-pain,pain,1783,PAIN
-griefsorrowsadness,"grief, sorrow, sadness",1668,GRIEF
-anxietyworry,"anxiety, worry",1000,ANXIETY
-cryweep,"cry, weep",1839,CRY
-anger,anger,82,ANGER
-envyjealousy,"envy, jealousy",40,ENVY
-shamenoun,shame (noun),1776,SHAME
-proud,proud,174,PROUD
-dare,dare,1779,DARE
-brave,brave,3,BRAVE
-fearfright,"fear, fright",781,FEAR (FRIGHT)
-danger,danger,1810,DANGER
-desirewant,"desire, want",1784,WANT
-choose,choose,1750,CHOOSE
-hope,hope,1092,HOPE
-faithful,faithful,100,FAITHFUL
-true,true,1657,TRUE
-lietelllies,"lie, tell lies",601,LIE (MISLEAD)
-deceit,deceit,13,DECEIT
-forgive,forgive,1528,FORGIVE
-bad,bad,1292,BAD
-mistakeerror,"mistake, error",1293,MISTAKE
-beautiful,beautiful,1427,BEAUTIFUL
-ugly,ugly,1548,UGLY
-greedy,greedy,2018,GREEDY
-mind,mind,1562,MIND
-believe,believe,1890,BELIEVE
-understand,understand,1536,UNDERSTAND
-know,know,1410,KNOW (SOMETHING)
-guess,guess,1932,GUESS
-imitate,imitate,117,IMITATE
-seem,seem,1521,SEEM
-wise,wise,698,WISE
-foolishstupid,"foolish, stupid",1518,STUPID
-learn,learn,504,LEARN
-study,study,1929,STUDY
-teach,teach,709,TEACH
-pupil,pupil,753,PUPIL (STUDENT)
-remember,remember,707,REMEMBER
-forget,forget,1523,FORGET
-clearplain,"clear, plain",989,CLEAR
-obscure,obscure,1764,OBSCURE
-secret,secret,1121,SECRET
-surecertain,"sure, certain",509,CERTAIN
-explain,explain,1626,EXPLAIN
-intentionpurpose,"intention, purpose",1162,INTENTION
-cause,cause,860,CAUSE
-doubt,doubt,1308,DOUBT
-suspect,suspect,1841,SUSPECT
-betray,betray,1902,BETRAY
-neednecessity,"need, necessity",643,NEED (NOUN)
-easy,easy,686,EASY
-difficult,difficult,584,DIFFICULT
-tryattempt,"try, attempt",1812,TRY
-waymanner,"way, manner",488,MANNER
-and,and,1577,AND
-because,because,1157,BECAUSE
-if,if,1459,IF
-or,or,1014,OR
-how,how?,1239,HOW
-what,what?,1236,WHAT
-when,when?,1238,WHEN
-where,where?,1237,WHERE
-who,who?,1235,WHO
-why,why?,1270,WHY
-voice,voice,1363,VOICE
-sing,sing,1261,SING
-shoutcryout,"shout, cry out",715,SHOUT
-whisper,whisper,55,WHISPER
-howl,howl,526,HOWL
-speaktalk,"speak, talk",1623,SPEAK
-stutterstammer,"stutter, stammer",1866,STUTTER
-say,say,1458,SAY
-tellstory,tell story,1711,TELL
-speechmakea,speech (make a),1115,SPEECH
-silentbe,silent (be),48,BE SILENT
-language,language,1307,LANGUAGE
-word,word,1599,WORD
-name,name,1405,NAME
-askquestioninquire,"ask (question, inquire)",1309,ASK (INQUIRE)
-answer,answer,1275,ANSWER
+accountreckoning,"account, reckoning",1081,BILL
+accuse,accuse,1814,ACCUSE
+acidsour,"acid, sour",1906,SOUR
+acquit,acquit,988,ACQUIT
 admitconfess,"admit, confess",2022,ADMIT
-deny,deny,755,DENY
-promise,promise,1675,PROMISE
-callsummon,call (=summon),1084,CALL
-announce,announce,9,ANNOUNCE
-boast,boast,101,BOAST
-citytown,"city, town",1391,TOWN
-village,village,930,VILLAGE
-peoplepopulace,people (populace),789,PEOPLE
-rulegovern,"rule, govern",1846,RULE
-noblenobleman,"noble, nobleman",482,NOBLE
-citizensubject,"citizen, subject",1032,CITIZEN
-master,master,383,MASTER
-slave,slave,812,SLAVE
-commandorder,"command, order",1128,ORDER
-obey,obey,1635,OBEY
-enemy,enemy,1358,ENEMY
-neighbor,neighbor,1332,NEIGHBOUR
-stranger,stranger,791,STRANGER
-guest,guest,1782,GUEST
-host,host,1545,HOST
-helpaid,"help, aid",1897,HELP
-hinderprevent,"hinder, prevent",1550,PREVENT
-custom,custom,1747,CUSTOM
-strifequarrel,"strife, quarrel",1848,QUARREL
-conspiracyplot,"conspiracy, plot",2024,PLOT
-meet,meet,1831,MEET
-prostitute,prostitute,1610,PROSTITUTE
-personhumanbeing,"person, human being",683,PERSON
-male,male,1553,MALE
-female,female,1551,FEMALE
-girl,girl,1646,GIRL
-infantbaby,"infant, baby",1289,BABY
-husband,husband,1200,HUSBAND
-wife,wife,1199,WIFE
-marry,marry,203,MARRY
-marriagewedding,"marriage, wedding",1259,WEDDING
-divorce,divorce,1134,DIVORCE
-parents,parents,505,PARENTS
-son,son,1620,SON
-daughter,daughter,1357,DAUGHTER
-grandmother,grandmother,1496,GRANDMOTHER
-aunt,aunt,1272,AUNT
-nephew,nephew,1063,NEPHEW
-niece,niece,1642,NIECE
+adobe,adobe,901,ADOBE
+adultery,adultery,902,ADULTERY
+adze,adze,290,ADZE
+again,again,204,AGAIN
+age,age,1789,AGE
+aloneonly,"alone, only",1580,ONLY
+always,always,1676,ALWAYS
+ambush,ambush,65,AMBUSH
 ancestors,ancestors,1669,ANCESTORS
-fatherinlawofaman,father-in-law (of a man),2255,FATHER-IN-LAW (OF MAN)
-motherinlawofaman,mother-in-law (of a man),2256,MOTHER-IN-LAW (OF WOMAN)
-soninlawofaman,son-in-law (of a man),2267,SON-IN-LAW (OF MAN)
+and,and,1577,AND
+anger,anger,82,ANGER
+ankle,ankle,803,ANKLE
+announce,announce,9,ANNOUNCE
+answer,answer,1275,ANSWER
+anvil,anvil,1648,ANVIL
+anxietyworry,"anxiety, worry",1000,ANXIETY
+approach,approach,1778,APPROACH
+armordefensive,armor (defensive),1061,ARMOUR
+armpit,armpit,1886,ARMPIT
+arson,arson,1889,ARSON
+ashes,ashes,646,ASH
+askquestioninquire,"ask (question, inquire)",1309,ASK (INQUIRE)
+attack,attack,722,ATTACK
+aunt,aunt,1272,AUNT
+avariciousstingy,"avaricious, stingy",1774,STINGY
+awl,awl,278,AWL
+axle,axle,1769,AXLE
+bad,bad,1292,BAD
+bait,bait,2013,BAIT
+bake,bake,183,BAKE
+bald,bald,1125,BALD
+bark,bark,1204,BARK
+barley,barley,932,BARLEY
+bathe,bathe,138,BATHE
+bead,bead,1860,BEAD
+beak,beak,73,BEAK
+beautiful,beautiful,1427,BEAUTIFUL
+because,because,1157,BECAUSE
+beech,beech,1950,BEECH
+beeswax,beeswax,1931,BEESWAX
+beggar,beggar,1934,BEGGAR
+beginbeginning,"begin, beginning",1806,BEGIN
+believe,believe,1890,BELIEVE
+bend,bend,2004,BEND
+betray,betray,1902,BETRAY
+birch,birch,1855,BIRCH
+bite,bite,1403,BITE
+bitter,bitter,887,BITTER
+blind,blind,1653,BLIND
+blink,blink,1655,BLINK
+blister,blister,1584,BLISTER
+blood,blood,946,BLOOD
+blow,blow,175,BLOW (OF WIND)
+bluntdull,"blunt, dull",379,BLUNT
+boar,boar,1348,BOAR
+board,board,1227,BOARD
+boast,boast,101,BOAST
+boilnoun,boil (noun),793,BOIL (OF SKIN)
+boot,boot,585,BOOT
+bootyspoils,"booty, spoils",1022,BOOTY
+bore,bore,1501,BORE
+borntobe,born (to be),1090,BE BORN
+borrow,borrow,1823,BORROW
+boundary,boundary,1010,BOUNDARY
+bowl,bowl,1530,BOWL
+braid,braid,333,PLAIT
+brain,brain,1583,BRAIN
+branch,branch,1531,BRANCH
+brave,brave,3,BRAVE
+breakwind,break wind,1159,FART
+breakfast,breakfast,1322,BREAKFAST
+breastofwoman,breast (of woman),1402,BREAST
+breathebreath,"breathe, breath",1407,BREATHE
+bright,bright,679,BRIGHT
+bring,bring,692,BRING
+broken,broken,588,BROKEN
+bruise,bruise,1148,BRUISE
+build,build,1840,BUILD
+bunch,bunch,1966,BUNCH
+burnvbtrans,burn (vb trans),141,BURN (SOMETHING)
+burythedead,bury (the dead),1719,BURY
+buttocks,buttocks,834,BUTTOCKS
+buy,buy,1869,BUY
+calf,calf,1989,CALF
+callsummon,call (=summon),1084,CALL
+calmofsea,calm (of sea),258,CALM
+canoe,canoe,1970,CANOE
+captiveprisoner,"captive, prisoner",1072,PRISONER
+carpenter,carpenter,1042,CARPENTER
+carrybear,carry (bear),700,CARRY
+carve,carve,228,CARVE
+castmetals,cast (metals),211,CAST
+cattlebovine,cattle (bovine),1153,CATTLE
+cause,cause,860,CAUSE
+cave,cave,1155,CAVE
+ceasestop,"cease, stop",1928,CEASE
+centipede,centipede,1974,CENTIPEDE
+change,change,1264,CHANGE
+charcoal,charcoal,1188,CHARCOAL
+cheap,cheap,1887,CHEAP
+chest,chest,1592,CHEST
+chimney,chimney,1305,CHIMNEY
+chisel,chisel,1979,CHISEL
+choke,choke,129,CHOKE
+choose,choose,1750,CHOOSE
+circle,circle,1467,CIRCLE
+citizensubject,"citizen, subject",1032,CITIZEN
+citrusfruit,citrus fruit,1126,CITRUS FRUIT
+citytown,"city, town",1391,TOWN
+claw,claw,72,CLAW
+clay,clay,1399,CLAY
+clean,clean,704,CLEAN
+clearplain,"clear, plain",989,CLEAR
+clever,clever,1310,CLEVER
+cliffprecipice,"cliff, precipice",618,PRECIPICE
+climb,climb,1102,CLIMB
+cloak,cloak,326,CLOAK
+clocktimepiece,"clock, timepiece",1323,CLOCK
+cloth,cloth,1616,CLOTH
+club,club,1763,CLUB
+cockroach,cockroach,1575,COCKROACH
+coconut,coconut,970,COCONUT
+collar,collar,2012,COLLAR
+collarbone,collarbone,1994,COLLARBONE
+collectgather,"collect, gather",7,GATHER
+come,come,1446,COME
+commandorder,"command, order",1128,ORDER
+condemn,condemn,484,CONDEMN
+conspiracyplot,"conspiracy, plot",2024,PLOT
+cooked,cooked,269,COOKED
+corpse,corpse,767,CORPSE
+cotton,cotton,1850,COTTON
+cough,cough,879,COUGH
+count,count,1420,COUNT
+cover,cover,761,COVER
+crocodilealligator,"crocodile, alligator",1857,CROCODILE
+crooked,crooked,297,CROOKED
+cross,cross,1367,CROSS
+crouch,crouch,296,CROUCH
+crushgrind,"crush, grind",1033,GRIND
+cryweep,"cry, weep",1839,CRY
+cultivatetill,"cultivate, till",1541,CULTIVATE
+cureheal,"cure, heal",499,CURE
+custom,custom,1747,CUSTOM
+dandruff,dandruff,576,DANDRUFF
+danger,danger,1810,DANGER
+dare,dare,1779,DARE
+darkincolor,dark (in color),706,DARK
+darkness,darkness,11,DARKNESS
+daughter,daughter,1357,DAUGHTER
 daughterinlawofaman,daughter-in-law (of a man),2265,DAUGHTER-IN-LAW (OF MAN)
+dawn,dawn,729,DAWN
+deaf,deaf,996,DEAF
+dearcostlyexpensive,"dear (costly, expensive)",1426,EXPENSIVE
+debt,debt,1914,DEBT
+deceit,deceit,13,DECEIT
+deep,deep,1593,DEEP
+defeat,defeat,782,DEFEAT
+defecate,defecate,676,SHIT (DEFECATE)
+defend,defend,1330,DEFEND
+deny,deny,755,DENY
+desirewant,"desire, want",1784,WANT
+destroy,destroy,681,DESTROY
+dew,dew,1977,DEW
+diedead,"die, dead",1494,DIE
+difficult,difficult,584,DIFFICULT
+dinner,dinner,1833,DINNER (SUPPER)
+dirtysoiled,"dirty, soiled",1230,DIRTY
+disappear,disappear,485,DISAPPEAR
+ditch,ditch,2002,DITCH
+divide,divide,1119,DIVIDE
+divorce,divorce,1134,DIVORCE
+domake,"do, make",2575,DO OR MAKE
+doorgate,"door, gate",1567,DOOR
+doubt,doubt,1308,DOUBT
+dream,dream,1920,DREAM (SOMETHING)
+drip,drip,2253,DRIP (EMIT LIQUID)
+drowned,drowned,1904,DROWN
+dry,dry,1398,DRY
+dust,dust,2,DUST
+dwelllive,"dwell, live",363,"DWELL (LIVE, RESIDE)"
+dye,dye,157,DYE
+early,early,672,EARLY
+earn,earn,733,EARN
+earthgroundsoil,"earth=ground, soil",1228,EARTH (SOIL)
+earthquake,earthquake,6,EARTHQUAKE
+east,east,1877,EAST
+easy,easy,686,EASY
+edge,edge,863,EDGE
+eggyolk,egg yolk,1556,YOLK
+elbow,elbow,981,ELBOW
+embers,embers,67,EMBERS
+embrace,embrace,928,EMBRACE
+empty,empty,1624,EMPTY
+enemy,enemy,1358,ENEMY
+enough,enough,1881,ENOUGH
+enter,enter,749,ENTER
+envyjealousy,"envy, jealousy",40,ENVY
+everyall,"every, all",98,ALL
+explain,explain,1626,EXPLAIN
+extinguish,extinguish,127,EXTINGUISH
+eyelash,eyelash,1540,EYELASH
+eyelid,eyelid,17,EYELID
+faithful,faithful,100,FAITHFUL
+fall,fall,1280,FALL
+famine,famine,199,FAMINE
+fatherinlawofaman,father-in-law (of a man),2255,FATHER-IN-LAW (OF MAN)
+fault,fault,134,FAULT
+fearfright,"fear, fright",781,FEAR (FRIGHT)
+feather,feather,1201,FEATHER
+feel,feel,1079,FEEL
+felt,felt,325,FELT
+female,female,1551,FEMALE
+fermenteddrink,fermented drink,404,ALCOHOL (FERMENTED DRINK)
+fever,fever,1534,FEVER
+fieldforcultivation,field (for cultivation),212,FIELD
+fifteen,fifteen,1709,FIFTEEN
+fightvb,fight (vb),1423,FIGHT
+find,find,719,FIND
+fine,fine,218,FINE (PENALTY)
+first,first,728,FIRST
+fishingline,fishing line,19,FISHING LINE
+flamenoun,flame (noun),889,FLAME
+flat,flat,1633,FLAT
+flea,flea,232,FLEA
+flee,flee,956,FLEE
+float,float,1574,FLOAT
+flow,flow,2003,FLOW
+foalcolt,"foal, colt",1647,FOAL
+follow,follow,1085,FOLLOW
+food,food,256,FOOD
+foolishstupid,"foolish, stupid",1518,STUPID
+forget,forget,1523,FORGET
+forgive,forgive,1528,FORGIVE
+fork,fork,337,PITCHFORK
+fortress,fortress,1938,FORTRESS
+fowl,fowl,265,FOWL
+freshwatereel,freshwater eel,1013,FRESHWATER EEL
+full,full,1429,FULL
+fur,fur,580,FUR
+furrow,furrow,1794,FURROW
+gardenhouse,garden-house,403,GARDEN-HOUSE
+getobtain,"get, obtain",694,GET
+gill,gill,1916,GILL
+girl,girl,1646,GIRL
+give,give,1447,GIVE
+giveback,give back,85,GIVE BACK
+go,go,695,GO
+goawaydepart,"go away, depart",1752,LEAVE
+goout,go out,1107,GO OUT
+goup,go up,705,GO UP (ASCEND)
+good,good,1035,GOOD
+goose,goose,1187,GOOSE
+grainbarleyoatsetc,"grain (barley, oats etc)",605,GRAIN
+granddaughter,granddaughter,1619,GRANDDAUGHTER
+grandmother,grandmother,1496,GRANDMOTHER
+grandson,grandson,1618,GRANDSON
+gravetomb,"grave, tomb",1773,GRAVE
+greasefat,"grease, fat",323,FAT (ORGANIC SUBSTANCE)
+greedy,greedy,2018,GREEDY
+griefsorrowsadness,"grief, sorrow, sadness",1668,GRIEF
+grow,grow,479,GROW
+guardsentinel,"guard, sentinel",1940,GUARD
+guess,guess,1932,GUESS
+guest,guest,1782,GUEST
+guilty,guilty,1682,GUILTY
+gulfbay,"gulf, bay",663,BAY
+half,half,816,HALF
+hangup,hang up,357,HANG UP
+harborport,"harbor, port",610,PORT
+hard,hard,1884,HARD
+harminjuredamage,"harm, injure, damage",44,INJURE
+hastenhurry,"hasten, hurry",754,HURRY
+hatcap,"hat, cap",2130,HEADGEAR
+have,have,773,HAVE
+havesexualintercourse,have sexual intercourse,1785,HAVE SEX
+hegoat,he-goat,264,HE-GOAT
+hear,hear,1408,HEAR
+heel,heel,980,HEEL
+helmet,helmet,1680,HELMET
+helpaid,"help, aid",1897,HELP
+hen,hen,1514,HEN
+high,high,1265,HIGH
+hightide,hightide,613,HIGH TIDE
+hinderprevent,"hinder, prevent",1550,PREVENT
+hip,hip,1745,HIP
+hire,hire,856,HIRE
+hold,hold,1448,HOLD
+hole,hole,1667,HOLE
+hook,hook,1071,HOOK
+hope,hope,1092,HOPE
+horn,horn,1393,HORN (ANATOMY)
+host,host,1545,HOST
+hot,hot,1286,HOT
+hour,hour,1353,HOUR
+howmuch,how much?,531,HOW MUCH
+how,how?,1239,HOW
+howl,howl,526,HOWL
+hunt,hunt,1435,HUNT
+husband,husband,1200,HUSBAND
+hut,hut,1678,HUT
+if,if,1459,IF
+imitate,imitate,117,IMITATE
+immediately,immediately,1963,IMMEDIATELY
+infantbaby,"infant, baby",1289,BABY
+innocent,innocent,90,INNOCENT
+insect,insect,620,INSECT
+intentionpurpose,"intention, purpose",1162,INTENTION
+intoxicated,intoxicated,1463,DRUNK
+itch,itch,148,ITCH
+jaw,jaw,798,JAW
+jewel,jewel,1029,JEWEL
+joinunite,"join, unite",1743,JOIN
+joyfulgladhappy,"joyful, glad, happy",1495,HAPPY
+judgment,judgment,1067,JUDGMENT
+jumpleap,"jump, leap",1829,JUMP
+keepretain,"keep, retain",1477,KEEP
+kettle,kettle,854,KETTLE
+kick,kick,1135,KICK
+kid,kid,1972,KID
+kidney,kidney,489,KIDNEY
+kiss,kiss,578,KISS
+knead,knead,274,KNEAD
+kneel,kneel,66,KNEEL
+know,know,1410,KNOW (SOMETHING)
+lagoon,lagoon,623,LAGOON
+lame,lame,320,LAME
+lamptorch,"lamp, torch",2131,TORCH OR LAMP
+language,language,1307,LANGUAGE
+largebig,"large, big",1202,BIG
+last,last,1529,LAST (FINAL)
+late,late,477,LATE
+laugh,laugh,1355,LAUGH
+law,law,1062,LAW
+lazy,lazy,1564,LAZY
+leadnoun,lead (noun),627,LEAD (CHEMICAL ELEMENT)
+learn,learn,504,LEARN
+leather,leather,629,LEATHER
+leg,leg,1297,LEG
+lend,lend,582,LEND
+lick,lick,319,LICK
+liedown,lie down,215,LIE DOWN
+lietelllies,"lie, tell lies",601,LIE (MISLEAD)
+lightnoun,light (noun),630,LIGHT (RADIATION)
+likesimilar,"like, similar",1558,SIMILAR
+limp,limp,366,LIMP
+line,line,1048,LINE
+littlequantityfew,"little (quantity), few",1242,FEW
+liver,liver,1224,LIVER
+livestock,livestock,631,LIVESTOCK
+long,long,1203,LONG
+looklookat,"look, look at",1819,LOOK
+loom,loom,1787,LOOM
+lose,lose,1660,LOSE
+loud,loud,377,LOUD
+louse,louse,1392,LOUSE
+love,love,923,LOVE
+low,low,721,LOW
+lunch,lunch,768,LUNCH
+lung,lung,688,LUNG
+male,male,1553,MALE
+mare,mare,938,MARE
+marketplace,market (place),633,MARKET
+marriagewedding,"marriage, wedding",1259,WEDDING
+marry,marry,203,MARRY
+mason,mason,877,MASON
+mast,mast,184,MAST
+master,master,383,MASTER
+mat,mat,195,MAT
+meala,meal (a),1526,MEAL
+measure,measure,1506,MEASURE
+medicinedrug,"medicine, drug",1372,MEDICINE
+meet,meet,1831,MEET
+merchant,merchant,1082,MERCHANT
+mill,mill,636,MILL
+mind,mind,1562,MIND
+misstarget,miss (target),161,MISS (A TARGET)
+mistakeerror,"mistake, error",1293,MISTAKE
+money,money,1559,MONEY
+more,more,1992,MORE
+mortar,mortar,224,MORTAR CRUSHER
+motherinlawofaman,mother-in-law (of a man),2256,MOTHER-IN-LAW (OF WOMAN)
+mountainhill,"mountain, hill",2118,MOUNTAIN OR HILL
+mouserat,"mouse, rat",2139,MUROID (MOUSE OR RAT)
+mouth,mouth,674,MOUTH
+move,move,765,MOVE
+mowreap,"mow, reap",190,MOW
+muchmany,"much, many",1198,MANY
+mucusnasal,mucus (nasal),208,NASAL MUCUS (SNOT)
+mud,mud,640,MUD
+mule,mule,890,MULE
+multitudecrowd,"multitude, crowd",2023,CROWD
+murder,murder,845,MURDER
+mushroom,mushroom,641,MUSHROOM
+mute,mute,1666,MUTE
+nakedbare,"naked, bare",590,NAKED
+name,name,1405,NAME
+napeofneck,nape of neck,1347,NAPE (OF NECK)
+narrow,narrow,1267,NARROW
+nearadv,near (adv),1942,NEAR
+neednecessity,"need, necessity",643,NEED (NOUN)
+neighbor,neighbor,1332,NEIGHBOUR
+nephew,nephew,1063,NEPHEW
+never,never,1656,NEVER
+new,new,1231,NEW
+niece,niece,1642,NIECE
+nippleteat,"nipple, teat",796,NIPPLE
+nitlouseegg,nit (louse egg),267,NIT
+noblenobleman,"noble, nobleman",482,NOBLE
+noonmidday,"noon, midday",12,MIDDAY
+north,north,1598,NORTH
+nostril,nostril,1178,NOSTRIL
+now,now,1376,NOW
+nut,nut,191,NUT
+oath,oath,1712,OATH
+oats,oats,60,OAT
+obey,obey,1635,OBEY
+obscure,obscure,1764,OBSCURE
+often,often,1852,OFTEN
+ointment,ointment,1926,OINTMENT
+old,old,1229,OLD
+olive,olive,1154,OLIVE
+open,open,1156,OPEN
+or,or,1014,OR
+owl,owl,735,OWL
+ox,ox,1169,OX
+pain,pain,1783,PAIN
+paintnoun,paint (noun),647,PAINT (PIGMENTS)
+pair,pair,1888,PAIR
+palmofhand,palm of hand,1183,PALM OF HAND
+parents,parents,505,PARENTS
+partpiece,"part, piece",779,PART
+payvb,pay (vb),718,PAY
+peel,peel,275,PEEL
+penaltypunishment,"penalty, punishment",390,PUNISHMENT
+penis,penis,1222,PENIS
+peoplepopulace,people (populace),789,PEOPLE
+personhumanbeing,"person, human being",683,PERSON
+perspire,perspire,126,SWEAT (PERSPIRE)
+pickup,pick up,371,PICK UP
+pillow,pillow,1044,PILLOW
+pinch,pinch,378,PINCH
+pipe,pipe,1124,PIPE
+place,place,723,PLACE (POSITION)
+plainfield,"plain, field",652,PLAIN
+plantnoun,plant (noun),653,PLANT (VEGETATION)
+play,play,1413,PLAY
+plow,plow,1921,PLOUGH
+pocket,pocket,1851,POCKET
+pointed,pointed,372,POINTED
+poison,poison,655,POISON
+poor,poor,1674,POOR
+porpoisedolphin,"porpoise, dolphin",1479,DOLPHIN
+pour,pour,1487,POUR
+pregnant,pregnant,1123,PREGNANT
+press,press,1913,PRESS
+price,price,657,PRICE
+prisonjail,"prison, jail",1281,PRISON
+promise,promise,1675,PROMISE
+prostitute,prostitute,1610,PROSTITUTE
+proud,proud,174,PROUD
+pull,pull,1455,PULL
+pupil,pupil,753,PUPIL (STUDENT)
+pus,pus,1808,PUS
+pushshove,"push, shove",1452,PUSH
+put,put,998,PUT
+putonclothes,put on (clothes),158,PUT ON
+quietsilence,"quiet, silence",1314,QUIET
+raiselift,"raise, lift",501,LIFT
+ram,ram,1344,RAM
+rape,rape,953,RAPE
+raw,raw,1959,RAW
+razor,razor,151,RAZOR
+reacharrive,"reach, arrive",1387,ARRIVE
+ready,ready,790,READY
+regretbesorry,"regret, be sorry",1875,REGRET
+relativeskinsmen,"relatives, kinsmen",1644,RELATIVES
+remainstay,"remain, stay",987,REMAIN
+remember,remember,707,REMEMBER
+rest,rest,168,REST
+rib,rib,801,RIB
+rich,rich,712,RICH
+ride,ride,367,RIDE
+ripe,ripe,178,RIPE
+rise,rise,568,RISE (MOVE UPWARDS)
+road,road,667,ROAD
+roastfry,"roast, fry",2146,ROAST OR FRY
+roll,roll,827,ROLL
+room,room,1450,ROOM
+rotten,rotten,1728,ROTTEN
+roughofsea,rough (of sea),259,ROUGH (OF SEA)
+round,round,1395,ROUND
+rowvb,row (vb),1849,ROW
+rubwipe,"rub, wipe",1449,RUB
+rulegovern,"rule, govern",1846,RULE
+run,run,1519,RUN
+rye,rye,23,RYE
+sailvb,sail (vb),787,SAIL
+salty,salty,1091,SALTY
+sap,sap,345,SAP
+sausage,sausage,1874,SAUSAGE
+say,say,1458,SAY
+scar,scar,497,SCAR
+scissorsshears,"scissors, shears",356,SHEARS
+season,season,691,SEASON
+second,second,1384,SECOND
+secret,secret,1121,SECRET
+see,see,1409,SEE
+seed,seed,714,SEED
+seem,seem,1521,SEEM
+seizegrasp,"seize, grasp",2021,GRASP
+sell,sell,1571,SELL
+send,send,1127,SEND
+separate,separate,1359,SEPARATE
+servant,servant,255,SERVANT
+sew,sew,1457,SEW
+shadeshadow,"shade, shadow",1388,SHADE
+shake,shake,1909,SHAKE
+shallow,shallow,193,SHALLOW
+shamenoun,shame (noun),1776,SHAME
+sharedistribute,share (distribute),884,SHARE
+sharp,sharp,1396,SHARP
+shelf,shelf,745,SHELF
+shell,shell,598,SHELL
+shield,shield,1064,SHIELD
+shine,shine,708,SHINE
+shoot,shoot,1172,SHOOT
+short,short,1645,SHORT
+shoulder,shoulder,1482,SHOULDER
+shoutcryout,"shout, cry out",715,SHOUT
+show,show,1039,SHOW
+shutclose,"shut, close",1046,SHUT
+sicksickness,"sick, sickness",1847,SICK
+sicklescythe,"sickle, scythe",2132,SICKLE OR SCYTHE
+side,side,682,SIDE
+silentbe,silent (be),48,BE SILENT
+silk,silk,1641,SILK
+sing,sing,1261,SING
+sink,sink,1088,SINK (DESCEND)
+sit,sit,1416,SIT
+skinhide,"skin, hide",763,SKIN
+skull,skull,1605,SKULL
+slave,slave,812,SLAVE
+sling,sling,387,SLING
+slow,slow,701,SLOW
+smalllittle,"small, little",1246,SMALL
+smellvbintrans,smell (vb intrans),1587,SMELL (STINK)
+smile,smile,1451,SMILE
+smithblacksmith,"smith, blacksmith",1001,BLACKSMITH
+smooth,smooth,1234,SMOOTH
+sneeze,sneeze,1621,SNEEZE
+snore,snore,1983,SNORE
+soft,soft,1856,SOFT
+soldier,soldier,1941,SOLDIER
+some,some,1241,SOME
+sometimes,sometimes,1544,SOMETIMES
+son,son,1620,SON
+soninlawofaman,son-in-law (of a man),2267,SON-IN-LAW (OF MAN)
+soon,soon,703,SOON
+soulspirit,"soul, spirit",53,SPIRIT
+soundnoise,"sound, noise",1811,SOUND OR NOISE
+soupbroth,"soup, broth",1547,SOUP
+south,south,1595,SOUTH
+sow,sow,1351,SOW (FEMALE PIG)
+speaktalk,"speak, talk",1623,SPEAK
+spear,spear,945,SPEAR
+speechmakea,speech (make a),1115,SPEECH
+spin,spin,121,SPIN
+spindle,spindle,277,SPINDLE
+spit,spit,1440,SPIT
+spleen,spleen,1744,SPLEEN
+stablestall,"stable, stall",851,STABLE
+stallion,stallion,936,STALLION
+stand,stand,1442,STAND
 stepfather,stepfather,237,STEPFATHER
 stepmother,stepmother,236,STEPMOTHER
 stepson,stepson,1059,STEPSON
-widower,widower,1981,WIDOWER
-i,I,1209,I
-yousingular,you (singular),1215,THOU
-we,we,1212,WE
-they,they,817,THEY
-fightvb,fight (vb),1423,FIGHT
-warbattle,"war, battle",579,BATTLE
-soldier,soldier,1941,SOLDIER
-club,club,1763,CLUB
-sling,sling,387,SLING
-armordefensive,armor (defensive),1061,ARMOUR
-helmet,helmet,1680,HELMET
-shield,shield,1064,SHIELD
-fortress,fortress,1938,FORTRESS
-defeat,defeat,782,DEFEAT
-attack,attack,722,ATTACK
-defend,defend,1330,DEFEND
-surrender,surrender,1696,SURRENDER
-bootyspoils,"booty, spoils",1022,BOOTY
-ambush,ambush,65,AMBUSH
-fishingline,fishing line,19,FISHING LINE
-bait,bait,2013,BAIT
-hightide,hightide,613,HIGH TIDE
-law,law,1062,LAW
-witness,witness,1144,WITNESS
-swear,swear,1939,SWEAR
-acquit,acquit,988,ACQUIT
-adultery,adultery,902,ADULTERY
-cattlebovine,cattle (bovine),1153,CATTLE
-kick,kick,1135,KICK
-calf,calf,1989,CALF
-boar,boar,1348,BOAR
-foalcolt,"foal, colt",1647,FOAL
-mule,mule,890,MULE
-hen,hen,1514,HEN
-owl,owl,735,OWL
-mouserat,"mouse, rat",2139,MUROID (MOUSE OR RAT)
-freshwatereel,freshwater eel,1013,FRESHWATER EEL
-centipede,centipede,1974,CENTIPEDE
-cockroach,cockroach,1575,COCKROACH
-beeswax,beeswax,1931,BEESWAX
-worm,worm,1219,WORM
-blood,blood,946,BLOOD
-veinartery,"vein, artery",525,BLOOD VESSEL
-debt,debt,1914,DEBT
-brain,brain,1583,BRAIN
-accountreckoning,"account, reckoning",1081,BILL
-mouth,mouth,674,MOUTH
-beak,beak,73,BEAK
-throat,throat,1346,THROAT
-armpit,armpit,1886,ARMPIT
-elbow,elbow,981,ELBOW
-wrist,wrist,799,WRIST
-palmofhand,palm of hand,1183,PALM OF HAND
-claw,claw,72,CLAW
-thigh,thigh,800,THIGH
-heel,heel,980,HEEL
-toe,toe,1389,TOE
-breastofwoman,breast (of woman),1402,BREAST
-nippleteat,"nipple, teat",796,NIPPLE
-udder,udder,154,UDDER
-lung,lung,688,LUNG
-waist,waist,1681,WAIST
-buttocks,buttocks,834,BUTTOCKS
-breathebreath,"breathe, breath",1407,BREATHE
-cough,cough,879,COUGH
-vomit,vomit,1278,VOMIT
-bite,bite,1403,BITE
-dream,dream,1920,DREAM (SOMETHING)
-breakwind,break wind,1159,FART
-urinate,urinate,592,PISS
-defecate,defecate,676,SHIT (DEFECATE)
-borntobe,born (to be),1090,BE BORN
-pregnant,pregnant,1123,PREGNANT
-corpse,corpse,767,CORPSE
-burythedead,bury (the dead),1719,BURY
-gravetomb,"grave, tomb",1773,GRAVE
-strongmightypowerful,"strong, mighty, powerful",785,STRONG
-weak,weak,1601,WEAK
-wellhealth,"well, health",1364,HEALTHY
-fever,fever,1534,FEVER
-woundsore,"wound, sore",1109,WOUND
-swelling,swelling,1903,SWELLING
-itch,itch,148,ITCH
-boilnoun,boil (noun),793,BOIL (OF SKIN)
-cureheal,"cure, heal",499,CURE
-tiredweary,"tired, weary",1757,TIRED
-bald,bald,1125,BALD
-lame,lame,320,LAME
-deaf,deaf,996,DEAF
-blind,blind,1653,BLIND
-food,food,256,FOOD
-famine,famine,199,FAMINE
-choke,choke,129,CHOKE
-meala,meal (a),1526,MEAL
-breakfast,breakfast,1322,BREAKFAST
-lunch,lunch,768,LUNCH
+stinkingbadsmelling,"stinking, bad smelling",42,STINKING
 stirmix,"stir, mix",2017,MIX
-knead,knead,274,KNEAD
-crushgrind,"crush, grind",1033,GRIND
-mortar,mortar,224,MORTAR CRUSHER
-wine,wine,1524,WINE
-acidsour,"acid, sour",1906,SOUR
-loud,loud,377,LOUD
-surprisedastonished,"surprised, astonished",1572,SURPRISED
-fork,fork,337,PITCHFORK
-seed,seed,714,SEED
-grainbarleyoatsetc,"grain (barley, oats etc)",605,GRAIN
-oats,oats,60,OAT
-good,good,1035,GOOD
-wrong,wrong,1390,WRONG
-clever,clever,1310,CLEVER
-sweep,sweep,230,SWEEP
-build,build,1840,BUILD
-tintinplate,"tin, tinplate",358,TINPLATE
-carve,carve,228,CARVE
-howmuch,how much?,531,HOW MUCH
-boundary,boundary,1010,BOUNDARY
-servant,servant,255,SERVANT
-granddaughter,granddaughter,1619,GRANDDAUGHTER
-relativeskinsmen,"relatives, kinsmen",1644,RELATIVES
-spear,spear,945,SPEAR
-captiveprisoner,"captive, prisoner",1072,PRISONER
-guardsentinel,"guard, sentinel",1940,GUARD
-hunt,hunt,1435,HUNT
-oath,oath,1712,OATH
-accuse,accuse,1814,ACCUSE
-guilty,guilty,1682,GUILTY
-innocent,innocent,90,INNOCENT
-penaltypunishment,"penalty, punishment",390,PUNISHMENT
-fine,fine,218,FINE (PENALTY)
-prisonjail,"prison, jail",1281,PRISON
-murder,murder,845,MURDER
-rape,rape,953,RAPE
-arson,arson,1889,ARSON
-thief,thief,1160,THIEF
-livestock,livestock,631,LIVESTOCK
-stablestall,"stable, stall",851,STABLE
-ox,ox,1169,OX
-ram,ram,1344,RAM
-hegoat,he-goat,264,HE-GOAT
-kid,kid,1972,KID
-goose,goose,1187,GOOSE
-vulture,vulture,1185,VULTURE
-shell,shell,598,SHELL
-insect,insect,620,INSECT
-louse,louse,1392,LOUSE
-flea,flea,232,FLEA
-crocodilealligator,"crocodile, alligator",1857,CROCODILE
-skinhide,"skin, hide",763,SKIN
-dandruff,dandruff,576,DANDRUFF
-horn,horn,1393,HORN (ANATOMY)
-skull,skull,1605,SKULL
-jaw,jaw,798,JAW
-eyelid,eyelid,17,EYELID
-eyelash,eyelash,1540,EYELASH
-blink,blink,1655,BLINK
-nostril,nostril,1178,NOSTRIL
-napeofneck,nape of neck,1347,NAPE (OF NECK)
-shoulder,shoulder,1482,SHOULDER
-leg,leg,1297,LEG
-feather,feather,1201,FEATHER
-chest,chest,1592,CHEST
-liver,liver,1224,LIVER
-kidney,kidney,489,KIDNEY
-spleen,spleen,1744,SPLEEN
-hip,hip,1745,HIP
-penis,penis,1222,PENIS
-sneeze,sneeze,1621,SNEEZE
-spit,spit,1440,SPIT
-lick,lick,319,LICK
-wakeup,wake up,1602,WAKE UP
-bathe,bathe,138,BATHE
-diedead,"die, dead",1494,DIE
-drowned,drowned,1904,DROWN
-sicksickness,"sick, sickness",1847,SICK
-blister,blister,1584,BLISTER
-pus,pus,1808,PUS
-scar,scar,497,SCAR
-medicinedrug,"medicine, drug",1372,MEDICINE
-poison,poison,655,POISON
-lazy,lazy,1564,LAZY
-mute,mute,1666,MUTE
-intoxicated,intoxicated,1463,DRUNK
-nakedbare,"naked, bare",590,NAKED
-cooked,cooked,269,COOKED
-raw,raw,1959,RAW
-ripe,ripe,178,RIPE
+storeshop,"store, shop",752,STORE
+straight,straight,1404,STRAIGHT
+stranger,stranger,791,STRANGER
+stretch,stretch,214,STRETCH
+strifequarrel,"strife, quarrel",1848,QUARREL
+strikehitbeat,"strike (hit, beat)",2133,STRIKE OR BEAT
+strongmightypowerful,"strong, mighty, powerful",785,STRONG
+study,study,1929,STUDY
+stutterstammer,"stutter, stammer",1866,STUTTER
 suck,suck,1421,SUCK
-roastfry,"roast, fry",2146,ROAST OR FRY
-bake,bake,183,BAKE
-kettle,kettle,854,KETTLE
-dinner,dinner,1833,DINNER (SUPPER)
-mill,mill,636,MILL
-soupbroth,"soup, broth",1547,SOUP
-vegetables,vegetables,924,VEGETABLES
-bunch,bunch,1966,BUNCH
-leather,leather,629,LEATHER
-awl,awl,278,AWL
-cloak,cloak,326,CLOAK
-bead,bead,1860,BEAD
-razor,razor,151,RAZOR
-ointment,ointment,1926,OINTMENT
-doorgate,"door, gate",1567,DOOR
-adobe,adobe,901,ADOBE
-ditch,ditch,2002,DITCH
-bark,bark,1204,BARK
-coconut,coconut,970,COCONUT
-yam,yam,410,YAM
-mushroom,mushroom,641,MUSHROOM
-adze,adze,290,ADZE
-cliffprecipice,"cliff, precipice",618,PRECIPICE
-tide,tide,891,TIDE
-extinguish,extinguish,127,EXTINGUISH
-charcoal,charcoal,1188,CHARCOAL
-raiselift,"raise, lift",501,LIFT
-crouch,crouch,296,CROUCH
-canoe,canoe,1970,CANOE
-lend,lend,582,LEND
-tradebarter,"trade, barter",2135,TRADE OR BARTER
-merchant,merchant,1082,MERCHANT
-sharedistribute,share (distribute),884,SHARE
-edge,edge,863,EDGE
-likesimilar,"like, similar",1558,SIMILAR
-multitudecrowd,"multitude, crowd",2023,CROWD
-smellvbintrans,smell (vb intrans),1587,SMELL (STINK)
-regretbesorry,"regret, be sorry",1875,REGRET
-fault,fault,134,FAULT
-which,which?,727,WHICH
-grandson,grandson,1618,GRANDSON
-shoot,shoot,1172,SHOOT
-judgment,judgment,1067,JUDGMENT
-sow,sow,1351,SOW (FEMALE PIG)
-gill,gill,1916,GILL
-porpoisedolphin,"porpoise, dolphin",1479,DOLPHIN
-nitlouseegg,nit (louse egg),267,NIT
-rib,rib,801,RIB
-mucusnasal,mucus (nasal),208,NASAL MUCUS (SNOT)
-ankle,ankle,803,ANKLE
-snore,snore,1983,SNORE
-havesexualintercourse,have sexual intercourse,1785,HAVE SEX
-bruise,bruise,1148,BRUISE
-rest,rest,168,REST
-bowl,bowl,1530,BOWL
-peel,peel,275,PEEL
-nut,nut,191,NUT
-olive,olive,1154,OLIVE
-greasefat,"grease, fat",323,FAT (ORGANIC SUBSTANCE)
-gardenhouse,garden-house,403,GARDEN-HOUSE
+surecertain,"sure, certain",509,CERTAIN
+surprisedastonished,"surprised, astonished",1572,SURPRISED
+surrender,surrender,1696,SURRENDER
+suspect,suspect,1841,SUSPECT
+swear,swear,1939,SWEAR
+sweep,sweep,230,SWEEP
+sweetpotato,sweet potato,159,SWEET POTATO
+swelling,swelling,1903,SWELLING
+swiftfastquick,"swift, fast, quick",1631,FAST
+swim,swim,1439,SWIM
+tailor,tailor,881,TAILOR
+take,take,1749,TAKE
+tall,tall,711,TALL
+tapiocamanioccassava,"tapioca, manioc, cassava",925,CASSAVA
+taste,taste,21,TASTE (SOMETHING)
+taxtribute,"tax, tribute",873,TAX
+teach,teach,709,TEACH
+tellstory,tell story,1711,TELL
+they,they,817,THEY
+thickindimension,thick (in dimension),1244,THICK
+thief,thief,1160,THIEF
+thigh,thigh,800,THIGH
+thinindimension,thin (in dimension),2249,THIN (OF SHAPE OF OBJECT)
+thing,thing,738,THING
+third,third,1859,THIRD
 thresh,thresh,285,THRESH
 threshingfloor,threshing-floor,223,THRESHING-FLOOR
-scissorsshears,"scissors, shears",356,SHEARS
-misstarget,miss (target),161,MISS (A TARGET)
-condemn,condemn,484,CONDEMN
-mare,mare,938,MARE
-rich,rich,712,RICH
-collarbone,collarbone,1994,COLLARBONE
-perspire,perspire,126,SWEAT (PERSPIRE)
-round,round,1395,ROUND
-littlequantityfew,"little (quantity), few",1242,FEW
-rotten,rotten,1728,ROTTEN
-sap,sap,345,SAP
-sweetpotato,sweet potato,159,SWEET POTATO
-tapiocamanioccassava,"tapioca, manioc, cassava",925,CASSAVA
-mountainhill,"mountain, hill",2118,MOUNTAIN OR HILL
-harborport,"harbor, port",610,PORT
-hire,hire,856,HIRE
+throat,throat,1346,THROAT
+throw,throw,1456,THROW
+thunder,thunder,1150,THUNDER
+tide,tide,891,TIDE
+tiebind,"tie, bind",1917,TIE
+time,time,892,TIME
+tintinplate,"tin, tinplate",358,TINPLATE
+tiredweary,"tired, weary",1757,TIRED
+tobacco,tobacco,974,TOBACCO
+today,today,1283,TODAY
+toe,toe,1389,TOE
+tomorrow,tomorrow,1329,TOMORROW
+touch,touch,1892,TOUCH
+tradebarter,"trade, barter",2135,TRADE OR BARTER
+trough,trough,205,TROUGH
+true,true,1657,TRUE
+tryattempt,"try, attempt",1812,TRY
+turnover,turn over,1588,TURN
+twist,twist,430,TWIST
+twotimes,two times,1546,TWICE
+udder,udder,154,UDDER
+ugly,ugly,1548,UGLY
+understand,understand,1536,UNDERSTAND
+untie,untie,352,UNTIE
+urinate,urinate,592,PISS
+valley,valley,921,VALLEY
+vegetables,vegetables,924,VEGETABLES
+veil,veil,1151,VEIL
+veinartery,"vein, artery",525,BLOOD VESSEL
+village,village,930,VILLAGE
+vine,vine,343,VINE
+voice,voice,1363,VOICE
+vomit,vomit,1278,VOMIT
+vulture,vulture,1185,VULTURE
+waist,waist,1681,WAIST
+wakeup,wake up,1602,WAKE UP
+walk,walk,1443,WALK
+warbattle,"war, battle",579,BATTLE
+warm,warm,1232,WARM
+wash,wash,1453,WASH
+waymanner,"way, manner",488,MANNER
+we,we,1212,WE
+weak,weak,1601,WEAK
+weave,weave,133,WEAVE
+week,week,1469,WEEK
+weigh,weigh,1098,WEIGH
+wellhealth,"well, health",1364,HEALTHY
+west,west,1817,WEST
+wetdamp,"wet, damp",1726,WET
+what,what?,1236,WHAT
+wheat,wheat,1077,WHEAT
+when,when?,1238,WHEN
+where,where?,1237,WHERE
+which,which?,727,WHICH
+whirlpool,whirlpool,1982,WHIRLPOOL
+whisper,whisper,55,WHISPER
+who,who?,1235,WHO
+why,why?,1270,WHY
 widebroad,"wide, broad",1243,WIDE
-stallion,stallion,936,STALLION
-sausage,sausage,1874,SAUSAGE
-fowl,fowl,265,FOWL
+widower,widower,1981,WIDOWER
+wife,wife,1199,WIFE
+wine,wine,1524,WINE
+wise,wise,698,WISE
+witness,witness,1144,WITNESS
+woodsforest,"woods, forest",420,FOREST
+wool,wool,964,WOOL
+word,word,1599,WORD
+work,work,984,WORK (LABOUR)
+worm,worm,1219,WORM
+woundsore,"wound, sore",1109,WOUND
+wrist,wrist,799,WRIST
+wrong,wrong,1390,WRONG
+yam,yam,410,YAM
+yardcourt,"yard, court",736,YARD
+yesterday,yesterday,1174,YESTERDAY
+yoke,yoke,14,YOKE
+yousingular,you (singular),1215,THOU
+young,young,1207,YOUNG
