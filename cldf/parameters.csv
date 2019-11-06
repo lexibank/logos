@@ -28,7 +28,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 68_extinguish,extinguish,127,EXTINGUISH
 71_charcoal,charcoal,1188,CHARCOAL
 72_move,move,765,MOVE
-73_turnover,turn over,1588,TURN
+73_turnover,turn over,1445,TURN (SOMETHING)
 76_roll,roll,827,ROLL
 78_twist,twist,3199,TWIST (AROUND)
 79_rise,rise,568,RISE (MOVE UPWARDS)
@@ -86,7 +86,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 164_destroy,destroy,681,DESTROY
 165_harminjuredamage,"harm, injure, damage",3195,DAMAGE OR INJURE
 167_find,find,719,FIND
-168_lose,lose,1660,LOSE
+168_lose,lose,3072,MISPLACE
 170_money,money,1559,MONEY
 172_rich,rich,712,RICH
 173_poor,poor,1674,POOR
@@ -191,7 +191,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 313_swiftfastquick,"swift, fast, quick",1631,FAST
 314_slow,slow,701,SLOW
 315_hastenhurry,"hasten, hurry",754,HURRY
-317_beginbeginning,"begin, beginning",1806,BEGIN
+317_beginbeginning,"begin, beginning",3447,BEGIN OR START
 321_ceasestop,"cease, stop",1928,CEASE
 322_ready,ready,790,READY
 323_always,always,1676,ALWAYS
@@ -225,7 +225,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 370_hear,hear,1408,HEAR
 372_soundnoise,"sound, noise",1811,SOUND OR NOISE
 373_loud,loud,377,LOUD
-374_quietsilence,"quiet, silence",1314,QUIET
+374_quietsilence,"quiet, silence",3458,SILENCE
 375_see,see,1409,SEE
 376_looklookat,"look, look at",1819,LOOK
 377_show,show,1039,SHOW
@@ -359,7 +359,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 561_master,master,383,MASTER
 562_slave,slave,812,SLAVE
 563_servant,servant,255,SERVANT
-565_commandorder,"command, order",1128,ORDER
+565_commandorder,"command, order",1998,COMMAND
 566_obey,obey,1635,OBEY
 569_enemy,enemy,1358,ENEMY
 570_neighbor,neighbor,1332,NEIGHBOUR
@@ -374,8 +374,8 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 579_meet,meet,1831,MEET
 580_prostitute,prostitute,1610,PROSTITUTE
 581_personhumanbeing,"person, human being",683,PERSON
-584_male,male,1553,MALE
-585_female,female,1551,FEMALE
+584_male,male,2261,MALE (OF PERSON)
+585_female,female,2260,FEMALE (OF PERSON)
 588_girl,girl,1646,GIRL
 591_infantbaby,"infant, baby",1289,BABY
 592_husband,husband,1200,HUSBAND
@@ -394,7 +394,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 626_niece,niece,1642,NIECE
 628_ancestors,ancestors,1669,ANCESTORS
 630_fatherinlawofaman,father-in-law (of a man),2255,FATHER-IN-LAW (OF MAN)
-632_motherinlawofaman,mother-in-law (of a man),2256,MOTHER-IN-LAW (OF WOMAN)
+632_motherinlawofaman,mother-in-law (of a man),2257,MOTHER-IN-LAW (OF MAN)
 634_soninlawofaman,son-in-law (of a man),2267,SON-IN-LAW (OF MAN)
 636_daughterinlawofaman,daughter-in-law (of a man),2265,DAUGHTER-IN-LAW (OF MAN)
 638_stepfather,stepfather,237,STEPFATHER
