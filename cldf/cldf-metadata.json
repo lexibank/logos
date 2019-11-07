@@ -12,24 +12,24 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "Database of Cross-Linguistic Colexifications (Version 1.0)",
-    "dcat:accessURL": "git@github.com:lexibank/logos",
+    "dcat:accessURL": "https://github.com/lexibank/logos",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
-            "rdf:about": "git@github.com:lexibank/logos",
-            "dc:created": "v2.0.3-7-g88ab4d9"
+            "rdf:about": "https://github.com/lexibank/logos",
+            "dc:created": "v2.0.3-9-g3716110"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
-            "rdf:about": "git@github.com:glottolog/glottolog",
+            "rdf:about": "https://github.com/glottolog/glottolog",
             "dc:created": "v4.0"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
-            "rdf:about": "git@github.com:concepticon/concepticon-data",
+            "rdf:about": "https://github.com/concepticon/concepticon-data",
             "dc:created": "v2.2.0"
         },
         {
