@@ -18,7 +18,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/logos",
-            "dc:created": "v2.0.3-9-g3716110"
+            "dc:created": "v2.0.3-10-g5de7241"
         },
         {
             "rdf:type": "prov:Entity",
