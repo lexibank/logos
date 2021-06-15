@@ -8,7 +8,6 @@ from pycldf.sources import Source
 
 from clldutils.path import Path
 from clldutils.misc import slug
-from pylexibank.dataset import Metadata, Concept
 from pylexibank.dataset import Dataset as BaseDataset
 from pylexibank.util import pb, getEvoBibAsBibtex
 
@@ -27,30 +26,28 @@ class Dataset(BaseDataset):
                 '\n\n'.join(src.values())
                 )
 
-    def cmd_install(self, **kw):
-        wl = lingpy.Wordlist(self.raw.posix('D_old-clics.tsv'))
+    def cmd_makecldf(self, args):
+        wl = lingpy.Wordlist(self.raw_dir.joinpath('D_old-clics.tsv').as_posix())
 
         src = {
 
                 'logos': 'Logos2008'
                 }
 
-        with self.cldf as ds:
-            ds.add_sources(*self.raw.read_bib())
-            for k in pb(wl, desc='wl-to-cldf'):
-                if wl[k, 'value']:
-                    ds.add_language(
-                        ID=slug(wl[k, 'doculect']),
-                        Name=wl[k, 'doculect'],
-                        Glottocode=wl[k, 'glottolog'])
-                    ds.add_concept(
-                        ID=slug(wl[k, 'concept']),
-                        Name=wl[k, 'concept'],
-                        Concepticon_ID=wl[k, 'concepticon_id']
-                        )
-                    ds.add_lexemes(
-                        Language_ID=slug(wl[k, 'doculect']),
-                        Parameter_ID=slug(wl[k, 'concept']),
-                        Value=wl[k, 'value'],
-                        Form=wl[k, 'value'],
-                        Source=src.get(wl[k, 'source'], ''))
+        args.writer.add_sources()
+        for k in pb(wl, desc='wl-to-cldf'):
+            if wl[k, 'value']:
+                args.writer.add_language(
+                    ID=slug(wl[k, 'doculect']),
+                    Name=wl[k, 'doculect'],
+                    Glottocode=wl[k, 'glottolog'])
+                args.writer.add_concept(
+                    ID=slug(wl[k, 'concept']),
+                    Name=wl[k, 'concept'],
+                    Concepticon_ID=wl[k, 'concepticon_id']
+                    )
+                args.writer.add_lexemes(
+                    Language_ID=slug(wl[k, 'doculect']),
+                    Parameter_ID=slug(wl[k, 'concept']),
+                    Value=wl[k, 'value'],
+                    Source=src.get(wl[k, 'source'], ''))
