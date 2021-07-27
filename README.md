@@ -1,5 +1,7 @@
 # LOGOS Data from the Database of Cross-Linguistic Colexifications (Version 1.0)
 
+[![CLDF validation](https://github.com/lexibank/logos/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/logos/actions?query=workflow%3ACLDF-validation)
+
 ## How to cite
 
 If you use these data please cite
@@ -10,7 +12,7 @@ If you use these data please cite
 ## Description
 
 
-This dataset is licensed under a GPL-3.0 license
+This dataset is licensed under a CC-BY-4.0 license
 
 Available online at https://zenodo.org/record/1194088
 
@@ -26,7 +28,7 @@ The five languages in this datasets were part of the first version of the [CLICS
 ## Statistics
 
 
-[![Build Status](https://travis-ci.org/lexibank/logos.svg?branch=master)](https://travis-ci.org/lexibank/logos)
+[![CLDF validation](https://github.com/lexibank/logos/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/logos/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")

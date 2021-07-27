@@ -1,6 +1,6 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family
-Venetianstd,Venetian-std,vene1258,,,,,,
-Hindistd,Hindi-std,hind1269,,,,,,
-Romagnolstd,Romagnol-std,roma1328,,,,,,
-Latinstd,Latin-std,lati1261,,,,,,
-Galicianstd,Galician-std,gali1258,,,,,,
+Venetianstd,Venetian-std,vene1258,Venetian,vec,Eurasia,45.503581,12.214167,Indo-European
+Hindistd,Hindi-std,hind1269,Hindi,hin,Eurasia,25.0,77.0,Indo-European
+Romagnolstd,Romagnol-std,roma1328,Romagnol,rgn,Eurasia,44.2349,11.7189,Indo-European
+Latinstd,Latin-std,lati1261,Latin,lat,Eurasia,41.9026,12.4502,Indo-European
+Galicianstd,Galician-std,gali1258,Galician,glg,Eurasia,42.2446,-7.5343,Indo-European
