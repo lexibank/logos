@@ -42,9 +42,8 @@ The five languages in this datasets were part of the first version of the [CLICS
 # Contributors
 
 Name | GitHub user | Description | Role
---- | --- | --- | --- 
-Johann-Mattis List | @LinguList | maintainer | Other
-Logos Group | | data collection | Author
+--- | --- | --- | ---
+Johann-Mattis List | @LinguList | data collection | Author
 
 
 

@@ -7,15 +7,10 @@
     ],
     "creators": [
         {
-            "name": "Logos Group"
+            "name": "Johann-Mattis List"
         }
     ],
-    "contributors": [
-        {
-            "name": "Johann-Mattis List",
-            "type": "Other"
-        }
-    ],
+    "contributors": [],
     "communities": [
         {
             "identifier": "lexibank"
