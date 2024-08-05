@@ -33,8 +33,8 @@ The five languages in this datasets were part of the first version of the [CLICS
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 
-- **Varieties:** 5
-- **Concepts:** 707
+- **Varieties:** 5 (linked to 5 different Glottocodes)
+- **Concepts:** 707 (linked to 707 different Concepticon concept sets)
 - **Lexemes:** 3,283
 - **Sources:** 1
 - **Synonymy:** 1.22
@@ -43,7 +43,7 @@ The five languages in this datasets were part of the first version of the [CLICS
 
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
-Johann-Mattis List | @LinguList | data collection | Author
+Johann-Mattis List | @LinguList | data collection | Author, Editor
 
 
 

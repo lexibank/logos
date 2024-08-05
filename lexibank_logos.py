@@ -9,7 +9,7 @@ from pylexibank.util import progressbar
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
     id = "logos"
-
+    writer_options = dict(keep_languages=False, keep_parameters=False)
     def cmd_makecldf(self, args):
         wl = lingpy.Wordlist((self.raw_dir / "D_old-clics.tsv").as_posix())
         src = {"logos": "Logos2008"}

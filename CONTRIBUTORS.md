@@ -2,4 +2,4 @@
 
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
-Johann-Mattis List | @LinguList | data collection | Author
+Johann-Mattis List | @LinguList | data collection | Author, Editor
