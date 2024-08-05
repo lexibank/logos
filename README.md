@@ -21,7 +21,7 @@ Conceptlists in Concepticon:
 - [List-2014-1280](https://concepticon.clld.org/contributions/List-2014-1280)
 ## Notes
 
-The five languages in this datasets were part of the first version of the [CLICS](https://clics.lingpy.org) database, which has by now been superseded by [CLICS²](https://clics.clld.org). Since the data from this datasets were not yet included in any dataset of the new CLICS database, have have added them here.
+The five languages in this datasets were part of the first version of the [CLICS](https://clics.lingpy.org) database, which has by now been superseded by [CLICS²](https://clics.clld.org). Since the data from this datasets were not yet included in any dataset of the new CLICS database, we have added them here.
 
 
 
